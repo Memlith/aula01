@@ -1,0 +1,28 @@
+body{
+    background-color: darkred;
+    font-family:monospace;
+}
+
+h1{
+    color: black;
+}
+
+#titulo{
+    width: 480px;
+    background-color: wheat;
+    border: 3px solid black;
+    border-radius: 16px;
+    text-align: center;
+    margin: 16px auto;
+}
+
+#texto{
+    
+    text-align: center;
+    width: 720px;
+    height: 260px;
+    margin: 16px auto;
+    background-color: thistle;
+    border: 3px solid black;
+    border-radius: 16px;
+}
